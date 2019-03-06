@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="pic">#2b2524</color>
+    <color name="play">#e06700</color>
+    <color name="button">#2d2625</color>
+    <color name="song_name">#FD8E09</color>
+    <color name="artist_name">#379237</color>
+    <color name="song_date">#8800A0</color>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="play_the_music">Play The music</string>
+
+    <string name="Details">Details</string>
+    <string name="play">Play</string>
+    <string name="Stop">Stop</string>
+    <string name="songname">Song Name : Unknown</string>
+    <string name="songdate">Song Date : Unknown</string>
+    <string name="artistname">Artist Name : Unknown</string>
+    <string name="Songslist">Songslist</string>
+    <string name="Back">Back</string>
+
+</resources>
